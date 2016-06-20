@@ -1,0 +1,6 @@
+README
+======
+
+hosted files for my website's current build. 
+
+I also attached a blog that i setup using Ghost. Which can also be found within my repository under "ki-blog". or through my website: kenijiwoye.com
