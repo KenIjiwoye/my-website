@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  background-color: #e7e7e7; }
+
+h1, h2, h3, h4, h5, h6, a, p {
+  font-family: 'Montserrat', sans-serif; }
+
+.navbar-brand img {
+  height: 30px; }
+
+/*HERO SECTION*/
+#hero {
+  background-image: url("../images/hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: relative;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  margin-top: -21px;
+  margin-bottom: 20px; }
+  #hero h1, #hero h4 {
+    color: white; }
+  #hero h1 {
+    font-size: 4rem; }
+  #hero .container {
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 10%; }
+
+#recent-works {
+  padding: 3%, 0px;
+  text-align: center;
+  margin-bottom: 20px; }
+  #recent-works h3 {
+    color: #7f8c8d; }
+  #recent-works img {
+    width: 100%; }
+
+#recent-port #port-bg p {
+  text-align: center;
+  padding: 3%;
+  text-decoration: underline; }
+#recent-port #port-bg a {
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: #7f8c8d; }
+  #recent-port #port-bg a:hover {
+    color: white; }
+#recent-port #port-bg .btn-default {
+  border-radius: 0;
+  border-color: #bdc3c7;
+  background-color: transparent; }
+  #recent-port #port-bg .btn-default:hover {
+    background-color: #282828;
+    transition: ease-in-out 0.4s; }
+
+footer {
+  height: 5%;
+  background-color: #bdc3c7;
+  text-align: center; }
+  footer p {
+    padding-top: 1%;
+    display: inline-block; }
+  footer a {
+    text-decoration: none;
+    color: inherit; }
+
+#work-banner {
+  background-color: #2d2d2d;
+  margin-top: -21px; }
+  #work-banner h1 {
+    color: white;
+    text-align: center;
+    padding: 5% 0; }
+
+#work-content {
+  padding-top: 5%;
+  padding-bottom: 5%; }
+
+#about-banner {
+  height: 200px;
+  background-image: url("../images/hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 70px;
+  margin-top: -21px; }
+  #about-banner h1 {
+    text-align: center;
+    color: white; }
+
+#about-content {
+  margin-top: 100px; }
+  #about-content h3 {
+    text-align: center; }
+  #about-content p {
+    padding: 0 2%; }
+
+/*# sourceMappingURL=main.css.map */
