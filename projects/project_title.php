@@ -25,6 +25,9 @@ case 'wmc.php':
 case 'mak.php': 
      $title = 'Mikey AK'; 
      break;
+case 'batman.php': 
+     $title = 'Batman Fan Site Concept'; 
+     break;
 } 
     echo  $title; 
 ?>

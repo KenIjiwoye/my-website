@@ -1,4 +1,3 @@
-
     <?php include 'header.php'; ?>
     <!-- NAVBAR SECTION END -->
 
@@ -7,7 +6,7 @@
       <div class="container">
         <h4>"Innovation is creativity with a job to do."</h4>
         <h1>KEN IJIWOYE</h1>
-        <h4>Jr Software Developer</h4>
+        <h4>Jr. Software Developer</h4>
       </div>
     </div>
 
@@ -23,6 +22,10 @@
     <div id="recent-port">
       <div class="container">
         <div class="row">
+          <div class="col-sm-4" id="port-bg">
+            <a href="projects/batman.php"><img src="images/thumbnails/bat-thumb.jpg" class="img-responsive center-block" width="100%"></a>
+            <a class="btn btn-default" href="projects/batman.php">Batman Fan Site Concept</a>
+          </div>
           <div class="col-sm-4" id="port-bg">
             <a href="projects/gamefly.php"><img src="images/thumbnails/gamefly-thumb.jpg" class="img-responsive center-block" width="100%"></a>
             <a class="btn btn-default" href="projects/gamefly.php">Gamefly Redesign Concept</a>
@@ -58,9 +61,6 @@
           <div class="col-sm-4" id="port-bg">
             <a href="#"><img src="images/thumbnails/s4u-thumb.jpg" class="img-responsive center-block" width="100%"></a> 
             <a class="btn btn-default" href="#">Styles 4 U - Logo Design</a>
-          </div>
-          <div class="row" id="port-bg" style="padding-top: 2%; padding-bottom: 2%;">
-            <h4 style="text-align: center;">More Coming Soon...</h4>
           </div>
         </div>
       </div>
