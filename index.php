@@ -6,7 +6,7 @@
       <div class="container">
         <h4>"Innovation is creativity with a job to do."</h4>
         <h1>KEN IJIWOYE</h1>
-        <h4>Jr. Software Developer</h4>
+        <h4>Software Developer</h4>
       </div>
     </div>
 
